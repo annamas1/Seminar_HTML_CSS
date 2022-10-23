@@ -1,0 +1,22 @@
+
+html {
+
+    font-weight: 700;
+    font-style: normal;
+    color: #060b43;
+
+}
+li {
+    font-family: Lato,Arial,sans-serif,-apple-system;
+    font-size: 16px;
+    line-height: 24px;
+    color: #0a14da;
+}
+h2, h3 {
+    font-family: Lato,Arial,sans-serif,-apple-system;
+    font-size: 16px;
+    line-height: 24px;
+    color: #484663;
+}
+
+
